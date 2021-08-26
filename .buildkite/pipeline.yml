@@ -1,4 +1,4 @@
+is-skippable: true
 steps:
   - label: "Example Script for Skipping"
     command: "script.ps1"
-    is-skippable: true
