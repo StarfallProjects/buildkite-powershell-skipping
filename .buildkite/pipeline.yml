@@ -1,4 +1,5 @@
-is-skippable: true
 steps:
   - label: "Example Script for Skipping"
-    command: "script.ps1"
+    command: "script1.ps1"
+  - label: "Second script"
+    command: "script2.ps1"
