@@ -1,5 +1,5 @@
 Write-Output "Script should take some time to run"
-Write-Output "Small change 3"
+Write-Output "Small change 1"
 $i=0
 Do {    
     if($i -lt 10) {
