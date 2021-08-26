@@ -1,7 +1,6 @@
 Write-Output "Script should take some time to run"
-
-Do {
-    $i=0
+$i=0
+Do {    
     if($i -lt 10) {
         Write-Output "Script running on"
         Start-Sleep -Seconds 5
