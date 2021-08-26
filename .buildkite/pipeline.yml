@@ -1,0 +1,4 @@
+
+steps:
+  - label: "Example Script for Skipping"
+    command: "script.ps1"
